@@ -1,0 +1,202 @@
+[17-04-2024_16-00-25][INFO]: SUBSCRIBED LIVE CHART LISTENER FOR https://www.livechart.me/users/BENAZZOU_Adnane/library?layout=regular&page=1&sort=next_release_countdown&statuses[]=watching&statuses[]=planning&statuses[]=considering&statuses[]=paused&titles=romaji&username=BENAZZOU_Adnane
+[17-04-2024_16-00-27][INFO]: Loaded Animes JSON File
+[17-04-2024_16-00-27][INFO]: Polled 56 Animes
+[17-04-2024_16-00-27][INFO]: Updated Animes JSON File
+[17-04-2024_16-00-27][INFO]: Producer Sent Delta Changes to the delta_channel
+[17-04-2024_16-00-28][INFO]: Loaded Animes JSON File
+[17-04-2024_16-00-28][INFO]: Polled 56 Animes
+[17-04-2024_16-00-28][INFO]: No Updates since last fetch
+[17-04-2024_16-00-30][INFO]: Loaded Animes JSON File
+[17-04-2024_16-00-30][INFO]: Polled 56 Animes
+[17-04-2024_16-00-30][INFO]: No Updates since last fetch
+[17-04-2024_16-00-31][INFO]: Loaded Animes JSON File
+[17-04-2024_16-00-31][INFO]: Polled 56 Animes
+[17-04-2024_16-00-31][INFO]: No Updates since last fetch
+[17-04-2024_16-00-33][INFO]: Loaded Animes JSON File
+[17-04-2024_16-00-33][INFO]: Polled 56 Animes
+[17-04-2024_16-00-33][INFO]: No Updates since last fetch
+[17-04-2024_16-00-34][INFO]: Loaded Animes JSON File
+[17-04-2024_16-00-34][INFO]: Polled 56 Animes
+[17-04-2024_16-00-34][INFO]: Updated Animes JSON File
+[17-04-2024_16-00-34][INFO]: Producer Sent Delta Changes to the delta_channel
+[17-04-2024_16-00-36][INFO]: Loaded Animes JSON File
+[17-04-2024_16-00-36][INFO]: Polled 56 Animes
+[17-04-2024_16-00-36][INFO]: No Updates since last fetch
+[17-04-2024_16-00-37][INFO]: Loaded Animes JSON File
+[17-04-2024_16-00-37][EXCEPTION]: Polled 0 card due to captcha or loading page
+[17-04-2024_16-00-38][INFO]: Loaded Animes JSON File
+[17-04-2024_16-00-38][INFO]: Polled 56 Animes
+[17-04-2024_16-00-38][INFO]: No Updates since last fetch
+[17-04-2024_16-00-39][INFO]: Loaded Animes JSON File
+[17-04-2024_16-00-39][EXCEPTION]: Polled 0 card due to captcha or loading page
+[17-04-2024_16-00-41][INFO]: Loaded Animes JSON File
+[17-04-2024_16-00-41][EXCEPTION]: Polled 0 card due to captcha or loading page
+[17-04-2024_16-00-40][INFO]: Loaded Animes JSON File
+[17-04-2024_16-00-41][INFO]: Polled 56 Animes
+[17-04-2024_16-00-41][INFO]: No Updates since last fetch
+[17-04-2024_16-00-42][INFO]: Loaded Animes JSON File
+[17-04-2024_16-00-42][INFO]: Polled 56 Animes
+[17-04-2024_16-00-42][INFO]: No Updates since last fetch
+[17-04-2024_16-00-43][INFO]: Loaded Animes JSON File
+[17-04-2024_16-00-43][EXCEPTION]: Polled 0 card due to captcha or loading page
+[17-04-2024_16-00-44][INFO]: Loaded Animes JSON File
+[17-04-2024_16-00-45][INFO]: Polled 56 Animes
+[17-04-2024_16-00-45][INFO]: No Updates since last fetch
+[17-04-2024_16-00-46][INFO]: Loaded Animes JSON File
+[17-04-2024_16-00-46][EXCEPTION]: Polled 0 card due to captcha or loading page
+[17-04-2024_16-00-47][INFO]: Loaded Animes JSON File
+[17-04-2024_16-00-47][INFO]: Polled 56 Animes
+[17-04-2024_16-00-47][INFO]: No Updates since last fetch
+[17-04-2024_16-00-49][INFO]: Loaded Animes JSON File
+[17-04-2024_16-00-49][INFO]: Polled 56 Animes
+[17-04-2024_16-00-49][INFO]: No Updates since last fetch
+[17-04-2024_16-00-50][INFO]: Loaded Animes JSON File
+[17-04-2024_16-00-50][EXCEPTION]: Polled 0 card due to captcha or loading page
+[17-04-2024_16-00-51][INFO]: Loaded Animes JSON File
+[17-04-2024_16-00-51][INFO]: Polled 56 Animes
+[17-04-2024_16-00-51][INFO]: No Updates since last fetch
+[17-04-2024_16-00-53][INFO]: Loaded Animes JSON File
+[17-04-2024_16-00-53][INFO]: Polled 56 Animes
+[17-04-2024_16-00-53][INFO]: No Updates since last fetch
+[17-04-2024_16-00-54][INFO]: Loaded Animes JSON File
+[17-04-2024_16-00-54][EXCEPTION]: Polled 0 card due to captcha or loading page
+[17-04-2024_16-00-55][INFO]: Loaded Animes JSON File
+[17-04-2024_16-00-55][INFO]: Polled 56 Animes
+[17-04-2024_16-00-55][INFO]: No Updates since last fetch
+[17-04-2024_16-00-57][INFO]: Loaded Animes JSON File
+[17-04-2024_16-00-57][INFO]: Polled 56 Animes
+[17-04-2024_16-00-57][INFO]: No Updates since last fetch
+[17-04-2024_16-00-58][INFO]: Loaded Animes JSON File
+[17-04-2024_16-00-58][EXCEPTION]: Polled 0 card due to captcha or loading page
+[17-04-2024_16-00-59][INFO]: Loaded Animes JSON File
+[17-04-2024_16-00-59][INFO]: Polled 56 Animes
+[17-04-2024_16-00-59][INFO]: No Updates since last fetch
+[17-04-2024_16-01-00][INFO]: Loaded Animes JSON File
+[17-04-2024_16-01-00][EXCEPTION]: Polled 0 card due to captcha or loading page
+[17-04-2024_16-01-02][INFO]: Loaded Animes JSON File
+[17-04-2024_16-01-02][INFO]: Polled 56 Animes
+[17-04-2024_16-01-02][INFO]: No Updates since last fetch
+[17-04-2024_16-01-03][INFO]: Loaded Animes JSON File
+[17-04-2024_16-01-03][INFO]: Polled 56 Animes
+[17-04-2024_16-01-03][INFO]: No Updates since last fetch
+[17-04-2024_16-01-04][INFO]: Loaded Animes JSON File
+[17-04-2024_16-01-04][EXCEPTION]: Polled 0 card due to captcha or loading page
+[17-04-2024_16-01-06][INFO]: Loaded Animes JSON File
+[17-04-2024_16-01-06][INFO]: Polled 56 Animes
+[17-04-2024_16-01-06][INFO]: No Updates since last fetch
+[17-04-2024_16-01-07][INFO]: Loaded Animes JSON File
+[17-04-2024_16-01-07][INFO]: Polled 56 Animes
+[17-04-2024_16-01-07][INFO]: No Updates since last fetch
+[17-04-2024_16-01-08][INFO]: Loaded Animes JSON File
+[17-04-2024_16-01-08][EXCEPTION]: Polled 0 card due to captcha or loading page
+[17-04-2024_16-01-10][INFO]: Loaded Animes JSON File
+[17-04-2024_16-01-10][INFO]: Polled 56 Animes
+[17-04-2024_16-01-10][INFO]: No Updates since last fetch
+[17-04-2024_16-01-11][INFO]: Loaded Animes JSON File
+[17-04-2024_16-01-11][INFO]: Polled 56 Animes
+[17-04-2024_16-01-11][INFO]: No Updates since last fetch
+[17-04-2024_16-01-11][INFO]: Loaded Animes JSON File
+[17-04-2024_16-01-11][EXCEPTION]: Polled 0 card due to captcha or loading page
+[17-04-2024_16-01-12][INFO]: Loaded Animes JSON File
+[17-04-2024_16-01-13][INFO]: Polled 56 Animes
+[17-04-2024_16-01-13][INFO]: No Updates since last fetch
+[17-04-2024_16-01-14][INFO]: Loaded Animes JSON File
+[17-04-2024_16-01-14][EXCEPTION]: Polled 0 card due to captcha or loading page
+[17-04-2024_16-01-15][INFO]: Loaded Animes JSON File
+[17-04-2024_16-01-15][INFO]: Polled 56 Animes
+[17-04-2024_16-01-15][INFO]: No Updates since last fetch
+[17-04-2024_16-01-16][INFO]: Loaded Animes JSON File
+[17-04-2024_16-01-17][INFO]: Polled 56 Animes
+[17-04-2024_16-01-17][INFO]: No Updates since last fetch
+[17-04-2024_16-01-18][INFO]: Loaded Animes JSON File
+[17-04-2024_16-01-18][EXCEPTION]: Polled 0 card due to captcha or loading page
+[17-04-2024_16-01-19][INFO]: Loaded Animes JSON File
+[17-04-2024_16-01-19][INFO]: Polled 56 Animes
+[17-04-2024_16-01-19][INFO]: No Updates since last fetch
+[17-04-2024_16-01-21][INFO]: Loaded Animes JSON File
+[17-04-2024_16-01-21][INFO]: Polled 56 Animes
+[17-04-2024_16-01-21][INFO]: No Updates since last fetch
+[17-04-2024_16-01-22][INFO]: Loaded Animes JSON File
+[17-04-2024_16-01-22][EXCEPTION]: Polled 0 card due to captcha or loading page
+[17-04-2024_16-01-24][INFO]: Loaded Animes JSON File
+[17-04-2024_16-01-24][INFO]: Polled 56 Animes
+[17-04-2024_16-01-24][INFO]: No Updates since last fetch
+[17-04-2024_16-01-25][INFO]: Loaded Animes JSON File
+[17-04-2024_16-01-25][INFO]: Polled 56 Animes
+[17-04-2024_16-01-25][INFO]: No Updates since last fetch
+[17-04-2024_16-01-27][INFO]: Loaded Animes JSON File
+[17-04-2024_16-01-27][INFO]: Polled 56 Animes
+[17-04-2024_16-01-27][INFO]: No Updates since last fetch
+[17-04-2024_16-01-28][INFO]: Loaded Animes JSON File
+[17-04-2024_16-01-28][INFO]: Polled 56 Animes
+[17-04-2024_16-01-28][INFO]: No Updates since last fetch
+[17-04-2024_16-01-29][INFO]: Loaded Animes JSON File
+[17-04-2024_16-01-29][INFO]: Polled 56 Animes
+[17-04-2024_16-01-30][INFO]: No Updates since last fetch
+[17-04-2024_16-01-31][INFO]: Loaded Animes JSON File
+[17-04-2024_16-01-31][INFO]: Polled 56 Animes
+[17-04-2024_16-01-31][INFO]: No Updates since last fetch
+[17-04-2024_16-01-32][INFO]: Loaded Animes JSON File
+[17-04-2024_16-01-32][EXCEPTION]: Polled 0 card due to captcha or loading page
+[17-04-2024_16-01-33][INFO]: Loaded Animes JSON File
+[17-04-2024_16-01-34][INFO]: Polled 56 Animes
+[17-04-2024_16-01-34][INFO]: No Updates since last fetch
+[17-04-2024_16-01-35][INFO]: Loaded Animes JSON File
+[17-04-2024_16-01-35][INFO]: Polled 56 Animes
+[17-04-2024_16-01-35][INFO]: No Updates since last fetch
+[17-04-2024_16-01-36][INFO]: Loaded Animes JSON File
+[17-04-2024_16-01-37][INFO]: Polled 56 Animes
+[17-04-2024_16-01-37][INFO]: No Updates since last fetch
+[17-04-2024_16-01-38][INFO]: Loaded Animes JSON File
+[17-04-2024_16-01-38][INFO]: Polled 56 Animes
+[17-04-2024_16-01-38][INFO]: No Updates since last fetch
+[17-04-2024_16-01-39][INFO]: Loaded Animes JSON File
+[17-04-2024_16-01-39][INFO]: Polled 56 Animes
+[17-04-2024_16-01-40][INFO]: No Updates since last fetch
+[17-04-2024_16-01-41][INFO]: Loaded Animes JSON File
+[17-04-2024_16-01-41][EXCEPTION]: Polled 0 card due to captcha or loading page
+[17-04-2024_16-01-42][INFO]: Loaded Animes JSON File
+[17-04-2024_16-01-42][INFO]: Polled 56 Animes
+[17-04-2024_16-01-42][INFO]: No Updates since last fetch
+[17-04-2024_16-01-42][INFO]: Loaded Animes JSON File
+[17-04-2024_16-01-42][INFO]: Polled 56 Animes
+[17-04-2024_16-01-42][INFO]: No Updates since last fetch
+[17-04-2024_16-01-43][INFO]: Loaded Animes JSON File
+[17-04-2024_16-01-43][EXCEPTION]: Polled 0 card due to captcha or loading page
+[17-04-2024_16-01-45][INFO]: Loaded Animes JSON File
+[17-04-2024_16-01-45][INFO]: Polled 56 Animes
+[17-04-2024_16-01-45][INFO]: No Updates since last fetch
+[17-04-2024_16-01-46][INFO]: Loaded Animes JSON File
+[17-04-2024_16-01-46][INFO]: Polled 56 Animes
+[17-04-2024_16-01-46][INFO]: No Updates since last fetch
+[17-04-2024_16-01-47][INFO]: Loaded Animes JSON File
+[17-04-2024_16-01-47][EXCEPTION]: Polled 0 card due to captcha or loading page
+[17-04-2024_16-01-49][INFO]: Loaded Animes JSON File
+[17-04-2024_16-01-49][INFO]: Polled 56 Animes
+[17-04-2024_16-01-49][INFO]: No Updates since last fetch
+[17-04-2024_16-01-50][INFO]: Loaded Animes JSON File
+[17-04-2024_16-01-50][EXCEPTION]: Polled 0 card due to captcha or loading page
+[17-04-2024_16-01-52][INFO]: Loaded Animes JSON File
+[17-04-2024_16-01-52][INFO]: Polled 56 Animes
+[17-04-2024_16-01-52][INFO]: No Updates since last fetch
+[17-04-2024_16-01-53][INFO]: Loaded Animes JSON File
+[17-04-2024_16-01-53][INFO]: Polled 56 Animes
+[17-04-2024_16-01-53][INFO]: No Updates since last fetch
+[17-04-2024_16-01-54][INFO]: Loaded Animes JSON File
+[17-04-2024_16-01-54][INFO]: Polled 56 Animes
+[17-04-2024_16-01-55][INFO]: No Updates since last fetch
+[17-04-2024_16-01-56][INFO]: Loaded Animes JSON File
+[17-04-2024_16-01-56][EXCEPTION]: Polled 0 card due to captcha or loading page
+[17-04-2024_16-01-57][INFO]: Loaded Animes JSON File
+[17-04-2024_16-01-57][INFO]: Polled 56 Animes
+[17-04-2024_16-01-57][INFO]: No Updates since last fetch
+[17-04-2024_16-01-58][INFO]: Loaded Animes JSON File
+[17-04-2024_16-01-58][INFO]: Polled 56 Animes
+[17-04-2024_16-01-59][INFO]: No Updates since last fetch
+[17-04-2024_16-02-00][INFO]: Loaded Animes JSON File
+[17-04-2024_16-02-00][INFO]: Polled 56 Animes
+[17-04-2024_16-02-00][INFO]: No Updates since last fetch
+[17-04-2024_16-02-01][INFO]: Loaded Animes JSON File
+[17-04-2024_16-02-01][INFO]: Polled 56 Animes
+[17-04-2024_16-02-01][INFO]: No Updates since last fetch
+[17-04-2024_16-02-02][INFO]: UNSUBSCRIBED LIVE CHART LISTENER FOR https://www.livechart.me/users/BENAZZOU_Adnane/library?layout=regular&page=1&sort=next_release_countdown&statuses[]=watching&statuses[]=planning&statuses[]=considering&statuses[]=paused&titles=romaji&username=BENAZZOU_Adnane
